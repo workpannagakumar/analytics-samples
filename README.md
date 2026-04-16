@@ -1,1 +1,1 @@
-# financial-modeling-samples
+# analytics-samples
